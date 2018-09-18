@@ -1,3 +1,6 @@
+## Solutions for CIKM 2018 Lazada Title Quality Challenge
+
+
 ## Setting up a development environment
 Make sure you have Python 3.6 installed, and run the following commands:
 
